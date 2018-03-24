@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/indlish/convert/LanguageDetector.java=UTF-8
+encoding//src/com/indlish/convert/lang/BengaliConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/GujaratiConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/HindiConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/KannadaConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/MalayalamConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/OriyaConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/TamilConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/TeluguConverter.java=UTF-8
+encoding//src/com/indlish/convert/lang/UrduConverter.java=UTF-8
